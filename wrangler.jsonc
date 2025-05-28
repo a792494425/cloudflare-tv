@@ -1,0 +1,5 @@
+{
+  "name": "cloudflare-tv", // 你的 Worker 名称
+  "compatibility_date": "2025-05-28", // 或者你项目实际的兼容日期
+  "main": "wroker.js" // 确保这里是你的入口文件名
+}
